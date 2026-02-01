@@ -1,3 +1,4 @@
+## dal repository AndreaRibuoli/cybersec
 nomefile = "logfile.txt"
 try:
     f = open(nomefile, "r", encoding='utf-8') 
